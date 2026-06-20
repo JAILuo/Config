@@ -2,6 +2,8 @@
 
 JAILuo's configuration archive.
 
+Each configuration is placed in a directory with the same name as (terminal/vim/...)(Chinese docs)
+
 # Feature
 
 ## Theme
@@ -12,11 +14,11 @@ Dracula with syntax highlighting.
 
 - Code & Diagnostics: Powered by coc.nvim and ale
 
-- File Management: Uses defx as a file explorer, fzf for fuzzy searching, and taglist/ctags for symbol browsing.
+- File Management: Uses defx as a file explorer, fzf for fuzzy searching
 
-- Custom key mappings: Shortcuts for buffer switching, saving, quitting, and LSP actions (go to definition, references, rename, formatting).
+- Custom key mappings: Many shortcuts
 
 ## tmux
 
-- prefix & mouse: Prefix remapped to Ctrl-] (from default Ctrl-b), with mouse enabled for easy pane/window interaction and a 256-color terminal.
+- prefix & mouse: Prefix remapped to Ctrl-] (from default Ctrl-b)
 
