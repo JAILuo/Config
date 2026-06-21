@@ -4,7 +4,7 @@ call plug#begin('~/.vim/plugged')
 
 " Code Completion and Diagnostics (LSP Core)
 Plug 'neoclide/coc.nvim', {'branch': 'release'}
-Plug 'dense-analysis/ale'
+" Plug 'dense-analysis/ale'
 
 " File Search and Navigation (Efficiency Tool)
 Plug 'git://github.com/junegunn/fzf', { 'do': { -> fzf#install() } }
