@@ -22,3 +22,7 @@ Dracula with syntax highlighting.
 
 - prefix & mouse: Prefix remapped to Ctrl-] (from default Ctrl-b)
 
+## ssh
+
+- useful ssh config for optimization
+
